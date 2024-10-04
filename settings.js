@@ -52,8 +52,8 @@ global.bimg = '//9j/4AAQSkZJRgABAQAAAQABAAD/4gIoSUNDX1BST0ZJTEUAAQEAAAIYAAAAAAQw
 global.mess = {
     done: 'saw bezwen anh aktive!',
     prem: 'sa pou pou moun ki premium ',
-    admin: 'sa se pou moun ki admin',
-    botAdmin: 'sa se pou admin bot lan',
+    admin: 'komand sa se pou mwen ak owner lan',
+    botAdmin: 'sa se pou admin lan',
     owner: 'ou pa owner maza',
     group: 'sa se pou group',
     private: 'sa se pou le w en prive ',
